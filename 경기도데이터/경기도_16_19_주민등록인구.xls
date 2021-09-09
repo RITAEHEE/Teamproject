@@ -1,0 +1,214 @@
+<!DOCTYPE HTML>
+<html lang="ko">
+<head>
+	<meta charset="utf-8">
+</head>
+<body>
+<table class="tb03" border="1" cellpadding="1" cellspacing="1">
+							<caption>검색결과</caption>	
+<colgroup>    
+	    						<col width = "130px"/>		   
+	    						<col width = "100px"/>
+<col width = "100px"/>
+<col width = "100px"/>
+<col width = "100px"/>
+<col width = "100px"/>
+<col width = "100px"/>
+<col width = "100px"/>
+<col width = "100px"/>
+<col width = "100px"/>
+<col width = "100px"/>
+<col width = "100px"/>
+<col width = "100px"/>
+<col width = "100px"/>
+</colgroup>
+							<thead>
+		      					<tr bgcolor="5B9BD5">	
+									<th scope="col" colspan="2">구분</th>
+<th scope="col" colspan="3">2016</th>
+<th scope="col" colspan="3">2017</th>
+<th scope="col" colspan="3">2018</th>
+<th scope="col" colspan="3" class="last">2019</th>
+</tr>
+								<tr bgcolor="5B9BD5">	
+									<th scope="col" colspan="1">행정구역</th>
+									<th scope="col" colspan="1">연령구분</th>
+<th scope="col" colspan="1">남자</th>
+<th scope="col" colspan="1">여자</th>
+<th scope="col" colspan="1">합계</th>
+<th scope="col" colspan="1">남자</th>
+<th scope="col" colspan="1">여자</th>
+<th scope="col" colspan="1">합계</th>
+<th scope="col" colspan="1">남자</th>
+<th scope="col" colspan="1">여자</th>
+<th scope="col" colspan="1">합계</th>
+<th scope="col" colspan="1">남자</th>
+<th scope="col" colspan="1">여자</th>
+<th scope="col" colspan="1" class="last">합계</th>
+</tr>
+							</thead>
+							<tbody>					
+<tr>
+									<td class="l">경기도</td>															
+<td>6이하</td>
+<td>440,853</td>
+<td>419,371</td>
+<td>860,224</td>
+<td>429,842</td>
+<td>408,768</td>
+<td>838,610</td>
+<td>418,298</td>
+<td>397,949</td>
+<td>816,247</td>
+<td>397,908</td>
+<td>378,695</td>
+<td class="last">776,603</td>
+</tr>
+<tr>
+									<td class="l">경기도</td>															
+<td>7세~12세</td>
+<td>391,732</td>
+<td>370,348</td>
+<td>762,080</td>
+<td>394,730</td>
+<td>373,550</td>
+<td>768,280</td>
+<td>404,921</td>
+<td>384,079</td>
+<td>789,000</td>
+<td>413,356</td>
+<td>392,883</td>
+<td class="last">806,239</td>
+</tr>
+<tr>
+									<td class="l">경기도</td>															
+<td>13세~15세</td>
+<td>212,269</td>
+<td>197,781</td>
+<td>410,050</td>
+<td>202,873</td>
+<td>189,925</td>
+<td>392,798</td>
+<td>196,284</td>
+<td>185,446</td>
+<td>381,730</td>
+<td>192,434</td>
+<td>182,521</td>
+<td class="last">374,955</td>
+</tr>
+<tr>
+									<td class="l">경기도</td>															
+<td>16세~18세</td>
+<td>253,348</td>
+<td>235,267</td>
+<td>488,615</td>
+<td>245,356</td>
+<td>228,075</td>
+<td>473,431</td>
+<td>231,698</td>
+<td>215,183</td>
+<td>446,881</td>
+<td>213,825</td>
+<td>200,061</td>
+<td class="last">413,886</td>
+</tr>
+<tr>
+									<td class="l">경기도</td>															
+<td>19세~29세</td>
+<td>969,191</td>
+<td>887,715</td>
+<td>1,856,906</td>
+<td>986,924</td>
+<td>898,617</td>
+<td>1,885,541</td>
+<td>1,001,396</td>
+<td>908,552</td>
+<td>1,909,948</td>
+<td>1,019,518</td>
+<td>919,946</td>
+<td class="last">1,939,464</td>
+</tr>
+<tr>
+									<td class="l">경기도</td>															
+<td>30세~39세</td>
+<td>994,253</td>
+<td>961,693</td>
+<td>1,955,946</td>
+<td>986,741</td>
+<td>948,248</td>
+<td>1,934,989</td>
+<td>996,212</td>
+<td>953,359</td>
+<td>1,949,571</td>
+<td>988,359</td>
+<td>937,468</td>
+<td class="last">1,925,827</td>
+</tr>
+<tr>
+									<td class="l">경기도</td>															
+<td>40세~49세</td>
+<td>1,169,765</td>
+<td>1,142,765</td>
+<td>2,312,530</td>
+<td>1,171,811</td>
+<td>1,142,149</td>
+<td>2,313,960</td>
+<td>1,163,422</td>
+<td>1,127,809</td>
+<td>2,291,231</td>
+<td>1,163,371</td>
+<td>1,126,827</td>
+<td class="last">2,290,198</td>
+</tr>
+<tr>
+									<td class="l">경기도</td>															
+<td>50세~59세</td>
+<td>1,041,164</td>
+<td>984,794</td>
+<td>2,025,958</td>
+<td>1,062,080</td>
+<td>1,015,676</td>
+<td>2,077,756</td>
+<td>1,091,730</td>
+<td>1,054,247</td>
+<td>2,145,977</td>
+<td>1,115,137</td>
+<td>1,083,691</td>
+<td class="last">2,198,828</td>
+</tr>
+<tr>
+									<td class="l">경기도</td>															
+<td>60세이상</td>
+<td>922,878</td>
+<td>1,121,593</td>
+<td>2,044,471</td>
+<td>994,966</td>
+<td>1,193,564</td>
+<td>2,188,530</td>
+<td>1,073,540</td>
+<td>1,273,028</td>
+<td>2,346,568</td>
+<td>1,156,087</td>
+<td>1,357,579</td>
+<td class="last">2,513,666</td>
+</tr>
+<tr>
+									<td class="l">경기도</td>															
+<td>합계</td>
+<td>6,395,453</td>
+<td>6,321,327</td>
+<td>12,716,780</td>
+<td>6,475,323</td>
+<td>6,398,572</td>
+<td>12,873,895</td>
+<td>6,577,501</td>
+<td>6,499,652</td>
+<td>13,077,153</td>
+<td>6,659,995</td>
+<td>6,579,671</td>
+<td class="last">13,239,666</td>
+</tr>
+</tbody>
+						</table>
+</body>
+</html>						
